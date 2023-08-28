@@ -1,0 +1,40 @@
+.intro,
+.contact,
+.summary,
+.exp,
+.train,
+.education,
+.proj,
+.skills {
+  padding: 10px;
+  margin: 20px;
+  text-align: left;
+
+}
+
+.main {
+  background-color: lightgrey;
+  padding-top: 50px;
+  margin-left: 320px;
+  height: auto;
+  width: 50%;
+  line-height: 1.5;
+  padding-left: 10px;
+  background-image: url('svg.png');
+}
+
+h3,
+h4 {
+  padding-left: 10px;
+  margin: auto;
+}
+
+.intro {
+  padding-top: 10px;
+  margin-top: -37px;
+}
+
+.heading {
+  font-weight: bolder;
+
+}
